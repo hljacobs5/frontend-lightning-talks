@@ -32,7 +32,7 @@
 - Joel O'Connor: CSS positioning - all the techniques, pros/cons, results
 - Kylee W: Media queries - screens + beyond
 9.  Javscript - closures
-10. Object Oriented Programming
+-Haley Jacobs: Object Oriented Programming
 - Marika: What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6
@@ -43,7 +43,7 @@
 - Brian Weikel: CSS optimization - easy wins and gotchas
 - Todd Ayres: React - what and why?
 20. Front End Hip - how to stay in the know on all the things
-- Haley Jacobs: Pairing approaches - all the types and pros/cons
+23. Pairing approaches - all the types and pros/cons
 - Chris Boylen: Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 - Gavin Love: Breaking the problem down + best pseudo coding practices
